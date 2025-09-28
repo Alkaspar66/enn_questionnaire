@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background: #112;
+  background: #111;
   color: #eee;
   margin: 0;
   padding: 0;
@@ -45,4 +45,5 @@ button:hover {
     margin: 8px 0;
   }
 }
+
 
