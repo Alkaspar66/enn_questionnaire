@@ -1,0 +1,415 @@
+[
+  {
+    "id": "levels-1",
+    "text": "Чувствую ли я иногда глубокое спокойствие и ясность, не зависящие от обстоятельств?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-2",
+    "text": "Бывает ли у меня ощущение внутренней свободы и целостности?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-3",
+    "text": "Испытываю ли я чувство единства с людьми и миром вокруг?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-4",
+    "text": "Могу ли я принимать свои слабости и при этом уважать себя?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-5",
+    "text": "Легко ли мне учиться на опыте и меняться без страха?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-6",
+    "text": "Чувствую ли я, что в жизни есть направление, которое даёт смысл?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-7",
+    "text": "Вижу ли я, что мои качества и способности приносят пользу другим?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-8",
+    "text": "Замечаю ли я, что меня уважают за то, кто я есть, а не только за достижения?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-9",
+    "text": "Испытываю ли я радость от того, что могу что-то создавать или помогать?",
+    "group": "levels",
+    "subgroup": "healthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-10",
+    "text": "Чувствую ли я, что мне важно, как меня воспринимают другие?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-11",
+    "text": "Случается ли, что я стараюсь выглядеть лучше, чем чувствую себя на самом деле?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-12",
+    "text": "Есть ли у меня тревога, если меня не оценили или не заметили?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-13",
+    "text": "Замечаю ли я, что иногда манипулирую людьми ради контроля или признания?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-14",
+    "text": "Часто ли я сравниваю себя с другими и чувствую зависть или раздражение?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-15",
+    "text": "Бывает ли, что я жёстко держусь за свои привычки или роли, даже если они мешают?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-16",
+    "text": "Чувствую ли я, что мне нужно обороняться даже там, где угрозы нет?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-17",
+    "text": "Бывает ли, что я обвиняю других в своих трудностях?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-18",
+    "text": "Легко ли я вхожу в конфликты, вместо того чтобы искать решение?",
+    "group": "levels",
+    "subgroup": "neurotic",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-19",
+    "text": "Случается ли, что я иду против себя, даже понимая, что это разрушает?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-20",
+    "text": "Есть ли у меня привычки или импульсы, которые я не могу контролировать?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-21",
+    "text": "Бывает ли, что я делаю другим больно, чтобы почувствовать себя сильнее?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-22",
+    "text": "Чувствую ли я иногда панику или сильный страх потерять контроль над собой?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-23",
+    "text": "Бывает ли, что я разрушаю отношения или связи, которые мне дороги?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-24",
+    "text": "Ощущаю ли я, что реальность становится чужой и враждебной?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-25",
+    "text": "Бывает ли у меня чувство, что мир совсем не настоящий или полностью угрожающий?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-26",
+    "text": "Теряю ли я иногда связь с собой и не понимаю, кто я?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "levels-27",
+    "text": "Случалось ли, что мысли или образы становились настолько сильными, что я терял контакт с реальностью?",
+    "group": "levels",
+    "subgroup": "unhealthy",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-1",
+    "text": "Когда в группе возникает напряжение, стараетесь ли вы восстановить порядок правилами, планом или точной информацией?",
+    "group": "harmonics",
+    "subgroup": "competent",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-2",
+    "text": "В кризисе для вас важнее оставаться собранным и компетентным, чем показывать эмоции?",
+    "group": "harmonics",
+    "subgroup": "competent",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-3",
+    "text": "Когда ситуация накаляется, реагируете ли вы прежде всего сильными эмоциями — злостью, тревогой или драматичностью?",
+    "group": "harmonics",
+    "subgroup": "emotional",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-4",
+    "text": "Чувствуете ли вы, что именно через эмоциональные реакции устанавливаете контакт с людьми?",
+    "group": "harmonics",
+    "subgroup": "emotional",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-5",
+    "text": "В трудностях стараетесь ли вы поднять настроение группе — поддержкой, шуткой или сглаживанием конфликта?",
+    "group": "harmonics",
+    "subgroup": "positive",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-6",
+    "text": "Бывает ли, что вы отвлекаете себя и других от тяжёлых тем, чтобы сохранить мир и лёгкость?",
+    "group": "harmonics",
+    "subgroup": "positive",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-7",
+    "text": "Легче ли вам действовать в сотрудничестве и чувствовать уверенность, когда рядом есть надёжные люди?",
+    "group": "harmonics",
+    "subgroup": "to_people",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-8",
+    "text": "Вам легче двигаться к цели в команде (со своими)?",
+    "group": "harmonics",
+    "subgroup": "to_people",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-9",
+    "text": "В ситуациях неопределённости берёте ли вы лидерство и ведете других вперёд, чтобы достичь результата?",
+    "group": "harmonics",
+    "subgroup": "against_people",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-10",
+    "text": "Чувствуете ли вы ответственность за других людей в сложной ситуации?",
+    "group": "harmonics",
+    "subgroup": "against_people",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-11",
+    "text": "Когда группа становится слишком требовательной, предпочитаете ли вы держаться в стороне или уходить в себя?",
+    "group": "harmonics",
+    "subgroup": "away_from_people",
+    "scale": [1,5]
+  },
+  {
+    "id": "harmonics-12",
+    "text": "Цените ли вы возможность сохранять дистанцию и оставаться независимым?",
+    "group": "harmonics",
+    "subgroup": "away_from_people",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-1",
+    "text": "Часто ли я думаю: «Что будет, если вдруг всё рухнет?»",
+    "group": "instincts",
+    "subgroup": "self_pres",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-2",
+    "text": "Есть ли у меня скрытая тревога, что ресурсов (денег, сил, жилья, времени) может не хватить?",
+    "group": "instincts",
+    "subgroup": "self_pres",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-3",
+    "text": "Замечаю ли я за собой привычку удерживать и накапливать «про запас»?",
+    "group": "instincts",
+    "subgroup": "self_pres",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-4",
+    "text": "Становлюсь ли я спокойнее, когда знаю, что есть гарантия или стабильная опора?",
+    "group": "instincts",
+    "subgroup": "self_pres",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-5",
+    "text": "Бывает ли, что я жертвую своими желаниями ради сохранения безопасности?",
+    "group": "instincts",
+    "subgroup": "self_pres",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-6",
+    "text": "Есть ли у меня ощущение, что жизнь небезопасна и нужно всё время держать себя в руках?",
+    "group": "instincts",
+    "subgroup": "self_pres",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-7",
+    "text": "Чувствую ли я облегчение, когда всё идёт по привычному порядку, без риска и неожиданностей?",
+    "group": "instincts",
+    "subgroup": "self_pres",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-8",
+    "text": "Насколько важно для меня быть частью группы, чувствовать себя «своим» среди людей?",
+    "group": "instincts",
+    "subgroup": "social",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-9",
+    "text": "Чувствую ли я тревогу, если остаюсь «вне компании» или меня не приглашают?",
+    "group": "instincts",
+    "subgroup": "social",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-10",
+    "text": "Получаю ли я энергию от общения, разговоров, обсуждения всего вместе?",
+    "group": "instincts",
+    "subgroup": "social",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-11",
+    "text": "Есть ли у меня привычка сравнивать себя с другими по статусу или роли в группе?",
+    "group": "instincts",
+    "subgroup": "social",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-12",
+    "text": "Случается ли, что я жертвую личными интересами ради общего дела?",
+    "group": "instincts",
+    "subgroup": "social",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-13",
+    "text": "Чувствую ли я, что без общества или сообщества моя жизнь теряет смысл?",
+    "group": "instincts",
+    "subgroup": "social",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-14",
+    "text": "Бывает ли, что я чувствую вину или страх быть исключённым, если не поддержу группу?",
+    "group": "instincts",
+    "subgroup": "social",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-15",
+    "text": "Насколько для меня важно иметь особую связь «один на один», чтобы чувствовать себя живым?",
+    "group": "instincts",
+    "subgroup": "sexual",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-16",
+    "text": "Бывает ли, что я ощущаю яркость жизни только рядом с человеком, который меня зажигает?",
+    "group": "instincts",
+    "subgroup": "sexual",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-17",
+    "text": "Случается ли, что я идеализирую или драматизирую отношения с партнёром?",
+    "group": "instincts",
+    "subgroup": "sexual",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-18",
+    "text": "Чувствую ли я ревность или сильную конкуренцию за внимание особого человека?",
+    "group": "instincts",
+    "subgroup": "sexual",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-19",
+    "text": "Бывает ли, что я отдаю слишком много сил ради удержания уникальной связи?",
+    "group": "instincts",
+    "subgroup": "sexual",
+    "scale": [1,5]
+  },
+  {
+    "id": "instincts-20",
+    "text": "Случалось ли у меня «роман с работой» — когда я полностью погружаюсь в дело, как в любовную историю, и всё остальное отходит на второй план?",
+    "group": "instincts",
+    "subgroup": "sexual",
+    "scale": [1,5]
+  }
+]

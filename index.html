@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>Enneagram Tester</title>
+  <link rel="stylesheet" href="style.css" />
+  <!-- FileSaver.js -->
+  <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js"></script>
+  <!-- docx -->
+  <script src="https://cdn.jsdelivr.net/npm/docx@8.5.0/build/index.umd.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Enneagram Tester</h1>
+
+    <div id="user-form">
+      <input id="name" placeholder="Имя" />
+      <input id="surname" placeholder="Фамилия" />
+      <br>
+      <button onclick="startTest()">Начать тест</button>
+    </div>
+
+    <div id="quiz" class="hidden"></div>
+
+    <button id="finish-btn" class="hidden" onclick="finishTest()">Завершить</button>
+
+    <div id="results" class="hidden"></div>
+
+    <div id="export" class="hidden">
+      <button onclick="exportJSON()">Экспорт JSON</button>
+      <button onclick="exportDOCX()">Экспорт DOCX</button>
+      <button onclick="window.print()">Печать</button>
+      <button onclick="restartTest()">Пройти снова</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
